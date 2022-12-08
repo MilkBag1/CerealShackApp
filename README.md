@@ -1,4 +1,4 @@
-# CaseStudy App (casestudy)
+# CerealShack App (casestudy)
 
 A Quasar Project
 
