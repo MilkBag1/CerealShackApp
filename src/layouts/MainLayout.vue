@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <q-header elevated>
       <q-toolbar>
-        <q-toolbar-title> Info3067 CaseStudy Application </q-toolbar-title>
+        <q-toolbar-title> CerealShack App </q-toolbar-title>
         <q-btn flat round dense icon="reorder" class="q-mr-xs">
           <q-menu>
             <q-list style="min-width: 100px">
